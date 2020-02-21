@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/man-the-beeman/static/css/main.d1b05096.chunk.css",
+    "main.js": "/man-the-beeman/static/js/main.44157a27.chunk.js",
+    "main.js.map": "/man-the-beeman/static/js/main.44157a27.chunk.js.map",
+    "runtime-main.js": "/man-the-beeman/static/js/runtime-main.ee976480.js",
+    "runtime-main.js.map": "/man-the-beeman/static/js/runtime-main.ee976480.js.map",
+    "static/js/2.52b0316b.chunk.js": "/man-the-beeman/static/js/2.52b0316b.chunk.js",
+    "static/js/2.52b0316b.chunk.js.map": "/man-the-beeman/static/js/2.52b0316b.chunk.js.map",
+    "index.html": "/man-the-beeman/index.html",
+    "precache-manifest.4d130c70b929168e7690b4d74356a8b9.js": "/man-the-beeman/precache-manifest.4d130c70b929168e7690b4d74356a8b9.js",
+    "service-worker.js": "/man-the-beeman/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/man-the-beeman/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.52b0316b.chunk.js.LICENSE.txt": "/man-the-beeman/static/js/2.52b0316b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/man-the-beeman/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee976480.js",
+    "static/js/2.52b0316b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.44157a27.chunk.js"
+  ]
+}
